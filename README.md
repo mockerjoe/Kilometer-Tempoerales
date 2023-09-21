@@ -6,3 +6,6 @@ simple running pace calculator with info storage in .json
 - Right entry field takes minutes and seconds in %M:%S format
 - click "calculate" button to get your pace
 - the "save" button adds your current pace with todays date, distance, time in .json file
+
+
+Maybe I'll change or add features in future
