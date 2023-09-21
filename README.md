@@ -8,4 +8,4 @@ simple running pace calculator with info storage in .json
 - the "save" button adds your current pace with todays date, distance, time in .json file
 
 
-Maybe I'll change or add features in future
+| Maybe I'll change and/or add features in future
